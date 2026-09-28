@@ -49,9 +49,6 @@ letter. They have no lawyer, no way to change a word, and usually a few minutes 
 decide. It was an exercise in scoping hard, so v1 deliberately does not serve anyone
 holding a contract they could actually negotiate.
 
-[portfolio](https://github.com/Jeffro014/portfolio) is static HTML and one
-stylesheet, no build step. Case studies from the work above.
-
 ### How I work
 
 I stay close to the API, reading and testing with Postman, Swagger and Auth0 rather
@@ -67,5 +64,5 @@ PAYTECH Book*, *Bank 4.0*) and writing about it
 
 MBA in business analytics and digital product management, DePaul. Project management
 for a 35-person global BI team at Orbitz. Co-founded a startup doing big-data
-personalization for hotels. Two years and four months in Peace Corps Mongolia, which
+personalization for hotels. Two years in Peace Corps Mongolia, which
 is where I got comfortable working without a clear brief.
